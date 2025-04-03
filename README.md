@@ -163,7 +163,7 @@ Okay, so I need to come up with some really good questions that delve into the d
 ```
 ## Fine-Tuned models answere : 
 ```python
-answere = """theory, which can be used to test AI systems.
+answere = """
 
 The question should involve concepts like P vs NP problem and time-space trade-offs.
 </think>
