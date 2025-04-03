@@ -148,19 +148,22 @@ tokenizer.save_pretrained("DeepSeek-R1-Computational-Complexity")
 ```
 
 ## 3. Testing the FIneTuned Model (with LoRA)
-- Prompt = 
-- >  Generate a very deep question about computational complexity
+ 
+```python
+Prompt = "Generate a very deep question about computational complexity"
+```
+
 
 ## **Noraml pretrained models answere :** 
 
-
-The generated questions must not have any markdown formatting and should be in plain text. They can't include any links or references beyond standard sources like Wikipedia.
+```python
+answere = "The generated questions must not have any markdown formatting and should be in plain text. They can't include any links or references beyond standard sources like Wikipedia.
 Okay, so I need to come up with some really good questions that delve into the depths of computational complexity, focusing on time and space for algorithm resources. Hmm, where do I start?
- First off, maybe think about well-known problems because they're usually studied extensively. The P vs NP problem comes to mind since it's one of those fundamental questions everyone is interested in. But wait....
-
+ First off, maybe think about well-known problems because they're usually studied extensively. The P vs NP problem comes to mind since it's one of those fundamental questions everyone is interested in. But wait...."
+```
 ## Fine-Tuned models answere : 
-
-theory, which can be used to test AI systems.
+```python
+answere = """theory, which can be used to test AI systems.
 
 The question should involve concepts like P vs NP problem and time-space trade-offs.
 </think>
@@ -171,6 +174,6 @@ Certainly! Here's an advanced question that combines the core of your request wi
 **Question:**  
 "Is there a proof or argument showing whether any algorithm exists for solving SAT in less than exponential time? If such algorithms exist, what is their fundamental reason?"
 
-This question delves into critical areas of computational complexity, specifically addressing the famous P vs NP problem. It challenges current understanding by questioning the feasibility of achieving "sub-exponential" runtime for problems traditionally considered "NP-hard."
-
+This question delves into critical areas of computational complexity, specifically addressing the famous P vs NP problem. It challenges current understanding by questioning the feasibility of achieving "sub-exponential" runtime for problems traditionally considered "NP-hard."""
+```
 ---
