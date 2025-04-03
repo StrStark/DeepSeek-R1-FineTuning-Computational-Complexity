@@ -1,14 +1,5 @@
 [
     {
-        "id": "b9e607ea-5956-4634-a197-6463805e951d",
-        "title": "Recognizing and Realizing Temporal Reachability Graphs",
-        "chunk_text": "",
-        "metadata": {
-            "author": "Thomas Erlebach, Othon Michail, Nils Morawietz",
-            "keywords": []
-        }
-    },
-    {
         "id": "8e45d757-5ace-415a-9d5e-2faefa597b7a",
         "title": "Recognizing and Realizing Temporal Reachability Graphs",
         "chunk_text": "Recognizing and Realizing Temporal Reachability Graphs Thomas Erlebach # \u001a Department of Computer Science, Durham University, UK Othon Michail # \u001a Department of Computer Science, University of Liverpool, UK Nils Morawietz # \u001a Friedrich Schiller University Jena, Institute of Computer Science, Germany LaBRI, Université de Bordeaux, France Abstract A temporal graph G = (G, λ) can be represented by an underlying graph G = (V, E) together with a function λ that assigns to each edge e ∈E the set of time steps during which e is present.",

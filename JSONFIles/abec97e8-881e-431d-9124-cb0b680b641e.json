@@ -5645,18 +5645,6 @@
         }
     },
     {
-        "id": "2870cb0e-d3e3-4cd7-b7fe-d2010d9fa272",
-        "title": "",
-        "chunk_text": "[24] J121, 1, 11K 241 1/241 9 × 10−7 106ϵ 106 −107 BB qLDPC, J72, 12, 6K 144 1/12 6 × 10−6 2 × 105ϵ 2 × (105 −106) Ref. [24] J144, 12, 12K 288 1/24 2 × 10−8 6 × 107ϵ 6 × (107 −108) LP qLDPC, J544, 80, ≤12K 1367 1/17 10−6 8 × 105ϵ 8 × (105 −106) Ref.",
-        "metadata": {
-            "author": "",
-            "keywords": [
-                "Ref",
-                "qLDPC"
-            ]
-        }
-    },
-    {
         "id": "56beff7d-835a-4128-93ed-82dd2af08682",
         "title": "",
         "chunk_text": "[23] J1428, 184, ≤24K 2670 1/15 10−7 9 × 106ϵ 9 × (106 −107) 6.3 Concluding remarks about logical EM To summarize, given a restricted number of physical qubits, LEM provides access to significantly larger logical circuit volumes relative to just EC, at the expense of a tolerable overhead in QPU time.",

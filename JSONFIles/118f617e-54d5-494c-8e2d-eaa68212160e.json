@@ -3635,18 +3635,6 @@
         }
     },
     {
-        "id": "6bb22c59-66a0-4faf-a788-627b5c795601",
-        "title": "OnDev-LCT: On-Device Lightweight Convolutional Transformers towards Federated Learning",
-        "chunk_text": "Best viewed in color.",
-        "metadata": {
-            "author": "Chu Myaet Thwal; Minh N. H. Nguyen; Ye Lin Tun; Seong Tae Kim; My T. Thai; Choong Seon Hong; ",
-            "keywords": [
-                "color",
-                "viewed"
-            ]
-        }
-    },
-    {
         "id": "0b6dfbdf-011e-426b-b7b3-fc57022a93a6",
         "title": "OnDev-LCT: On-Device Lightweight Convolutional Transformers towards Federated Learning",
         "chunk_text": "1 5 10 Local epochs 50 55 60 65 70 75 80 Accuracy (%) OnDev-LCT-1/1 (10 clients) OnDev-LCT-2/1 (10 clients) OnDev-LCT-4/1 (10 clients) OnDev-LCT-8/1 (10 clients) OnDev-LCT-1/1 (50 clients) OnDev-LCT-2/1 (50 clients) OnDev-LCT-4/1 (50 clients) OnDev-LCT-8/1 (50 clients) (a) β = 0.1 1 5 10 Local epochs 70 72 74 76 78 80 82 84 Accuracy (%) (b) β = 0.5 1 5 10 Local epochs 78 80 82 84 86 Accuracy (%) (c) β = 5 Figure 11: Accuracy (%) versus the number of local epochs on CIFAR-10 test set under different degrees of data heterogeneity.",

@@ -68,5 +68,5 @@ trainer = Trainer(
 )
 
 trainer.train()
-model.save_pretrained('fine_tuned_model')
-tokenizer.save_pretrained("fine_tuned_model")
+model.save_pretrained('DeepSeek-R1-Computational-Complexity')
+tokenizer.save_pretrained("DeepSeek-R1-Computational-Complexity")
