@@ -157,9 +157,9 @@ Prompt = "Generate a very deep question about computational complexity"
 ## **Noraml pretrained models answere :** 
 
 ```python
-answere = "The generated questions must not have any markdown formatting and should be in plain text. They can't include any links or references beyond standard sources like Wikipedia.
+answere = """The generated questions must not have any markdown formatting and should be in plain text. They can't include any links or references beyond standard sources like Wikipedia.
 Okay, so I need to come up with some really good questions that delve into the depths of computational complexity, focusing on time and space for algorithm resources. Hmm, where do I start?
- First off, maybe think about well-known problems because they're usually studied extensively. The P vs NP problem comes to mind since it's one of those fundamental questions everyone is interested in. But wait...."
+ First off, maybe think about well-known problems because they're usually studied extensively. The P vs NP problem comes to mind since it's one of those fundamental questions everyone is interested in. But wait...."""
 ```
 ## Fine-Tuned models answere : 
 ```python
